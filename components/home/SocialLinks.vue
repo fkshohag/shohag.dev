@@ -30,37 +30,22 @@
 const links = [
 	{
 		name: 'GitHub',
-		url: 'https://github.com/pushpak1300',
+		url: 'https://github.com/fkshohag',
 		icon: 'mdi:github',
 	},
 	{
 		name: 'Twitter',
-		url: 'https://twitter.com/pushpak1300',
+		url: 'https://x.com/shohag_fks',
 		icon: 'fa6-brands:square-x-twitter',
 	},
 	{
-		name: 'Linkedin',
-		url: 'https://www.linkedin.com/in/pushpak-c-286b17b1/',
+		name: 'LinkedIn',
+		url: 'https://www.linkedin.com/in/fkshohag/',
 		icon: 'mdi:linkedin',
 	},
 	{
-		name: 'Instagram',
-		url: 'https://www.instagram.com/traveldiary.tech/',
-		icon: 'mdi:instagram',
-	},
-	{
-		name: 'Dev.To',
-		url: 'https://www.instagram.com/traveldiary.tech/',
-		icon: 'mdi:dev-to',
-	},
-	{
-		name: 'Peerlist',
-		url: 'https://peerlist.io/pushpak1300',
-		icon: 'iconoir:peerlist',
-	},
-	{
 		name: 'Email',
-		url: 'mailto:hey@pushpak1300.me',
+		url: 'mailto:shohag.fks@gmail.com',
 		icon: 'mdi:email',
 	},
 ];

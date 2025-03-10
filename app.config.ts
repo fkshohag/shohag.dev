@@ -28,6 +28,6 @@ export default defineAppConfig({
 			},
 		},
 	},
-	name: 'Pushpak Chhajed',
+	name: 'Md Shohag',
 	resumeURL: 'https://drive.google.com/file/d/1vJbFZ-NyPPtkshIVDlHZYNusnBt_vZM3/view',
 });

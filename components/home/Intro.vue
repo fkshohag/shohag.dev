@@ -4,8 +4,8 @@
 		class="space-y-6"
 	>
 		<NuxtImg
-			src="/avtar.webp"
-			alt="Pushpak Chhajed"
+			src="/shohag-pfl.jpg"
+			alt="Md Shohag"
 			class="size-12 rounded-full border border-gray-300 bg-gray-200 ring-2 ring-gray-200 transition-all duration-300 hover:ring-4 dark:border-gray-800 dark:bg-gray-900 dark:ring-white/10 sm:size-24"
 			placeholder
 			width="45"
@@ -16,67 +16,59 @@
 			Hey. I'm {{ appConfig.name }}. 👋
 		</h1>
 		<p class="text-gray-900 dark:text-gray-400">
-			I’m a tinkerer, hacker, and software engineer from India. <br><br>
-			My coding journey started at 2012 when I began customizing Cydia themes for my iPad, which quickly fueled my
-			obsession with computers and the
-			internet. I started learning swift. I shifted to web tech-learning HTML, CSS, and JavaScript. Building
-			websites sparked my passion for
-			creating impactful products. While studying at Mumbai University, I gained hands-on experience at
-			early-stage startups, learning to solve real customer problems and build end-to-end solutions. few of them
-			are <AppExternalLink
-				href="https://Taxvisors.com"
-				title="taxvosior"
-			>
-				Taxvisor
-			</AppExternalLink> and Behtaar.
-			<br>
-			<br>
-			I dove deep into the Laravel ecosystem while working at <AppExternalLink
-				href="https://www.easternenterprise.com/"
-				title="Eastern Enterprise Website"
-			>
-				Eastern Enterprise
-			</AppExternalLink>,a
-			Netherlands-based service startup. Even in a service environment, I kept my hacker mindset tinkering
-			with different technologies and tools.The pandemic coincided with my fourth year of university, allowing me
-			to balance my academics with a
-			full-time role at a UK-based fintech startup called <AppExternalLink
-				href="https://clearglass.com"
-				title="clearglass"
-			>
-				Clearglass Analytics
-			</AppExternalLink>. Here, I honed my skills in product engineering,contributing to various teams and
-			building features that improved workflows.
-			<br>
-			<br>
-			Recently, I participated in a Laracon India hackathon that got my interest in large language models (LLMs).
-			This
-			led to my current role (Senior Software Engineer) at
-			<AppExternalLink
-				href="https://biglysales.com"
-				title="Bigly Sales"
-			>
-				Bigly Sales
-			</AppExternalLink>, where I’m scaling our LLM
-			and Laravel pipeline to automate customer
-			communications, scaling to millions of calls and SMS daily.
+			I'm a Senior Software Engineer from Bangladesh, specializing in building scalable applications with a strong 
+			foundation in DevOps practices. 
 			<br><br>
-			As of 2024, my current focus is on:
+			With over 6 years of experience, I focus on engineering best practices, creating maintainable and testable code. 
+			I'm particularly passionate about system architecture, API design, and implementing robust solutions that scale. 
+			My approach to software development emphasizes both technical excellence and business value.
+			<br><br>
+			My technical expertise spans across multiple domains:
 			<br>
-			<b class="text-primary-700 dark:text-primary-100">Laravel, Inertia, Tailwind, Vue, TypeScript, PHP, Python and Nuxt.</b><br>
+			<b class="text-primary-700 dark:text-primary-100">
+				Backend: Python, Go, Node.js, PHP,
+				<br>
+				Frontend: React.js, Vue.js, Angular
+				<br>
+				DevOps: AWS, GCP, Kubernetes, Docker, Jenkins
+				<br>
+				Databases: PostgreSQL, MySQL, MongoDB, ScyllaDB
+			</b>
+			<br><br>
+			I have extensive experience architecting microservices, implementing XMPP protocols, and managing cloud infrastructure. 
+			I've designed and implemented CI/CD pipelines using Jenkins and worked extensively with both AWS and Google Cloud 
+			platforms for deploying highly available applications.
+			<br><br>
+			Beyond system architecture, I have a strong foundation in algorithmic problem-solving and competitive programming. 
+			I've solved 500+ problems across various online judges, which has sharpened my analytical thinking and ability 
+			to optimize complex systems.
+			<br><br>
+			Currently, I'm focused on:
 			<br>
-
-			When I’m not coding, you can find me reading about the latest trends, or
-			traveling. <br>
-			I’m always up for a chat or collaboration. Hit me up on <AppExternalLink
-				href="https://x.com/pushpak1300"
-				title="X account of Pushpak Chhajed"
+			<b class="text-primary-700 dark:text-primary-100">
+				• Architecting scalable fintech solutions
+				<br>
+				• LLM and AI integration in financial services
+				<br>
+				• High-performance distributed systems
+				<br>
+				• Algorithmic optimization for large-scale applications
+			</b>
+			<br><br>
+			When I'm not engineering solutions, I enjoy participating in coding competitions, exploring emerging technologies, 
+			and contributing to the developer community. I believe in continuous learning and sharing knowledge with others 
+			through mentorship and technical discussions.
+			<br><br>
+			Let's connect! Whether it's about system architecture, algorithmic challenges, or innovative tech solutions, 
+			feel free to reach out on <AppExternalLink
+				href="https://x.com/shohag_fks"
+				title="X account of Md Shohag"
 			>
 				Twitter
-			</AppExternalLink> or
+			</AppExternalLink>,
 			<AppExternalLink
-				href="mailto:hello@pushpak1300.me"
-				title="Email Address Of Pushpak Chhajed"
+				href="mailto:shohag.fks@gmail.com"
+				title="Email Address Of Md Shohag"
 			>
 				Email
 			</AppExternalLink>!
@@ -89,8 +81,8 @@ import { useSeoMeta } from '#imports';
 import appConfig from '~/app.config';
 
 useSeoMeta({
-	title: 'Pushpak Chhajed',
+	title: 'Md Shohag',
 	description:
-		'I\'m a software engineer from India with more than three years of experience in developing applications, primarily using web technologies.',
+		'Senior Software Engineer specializing in scalable applications, system architecture, and DevOps practices with expertise in Python, PHP, and cloud technologies.',
 });
 </script>
