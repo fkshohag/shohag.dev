@@ -14,7 +14,7 @@
 		/>
 		<h1 class="text-xl font-bold text-gray-800 drop-shadow-2xl dark:text-gray-100">
 			Hey. I'm {{ appConfig.name }}. 👋
-		</h1>
+		</h1> 
 		<p class="text-gray-900 dark:text-gray-400">
 			I'm a Senior Software Engineer from Bangladesh, with an MSc in Computer Science from 
 			<b class="text-primary-700 dark:text-primary-100">Jahangirnagar University</b> 
