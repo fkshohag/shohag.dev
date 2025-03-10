@@ -31,7 +31,7 @@ export default defineNuxtConfig({
 			bodyAttrs: {
 				class: 'antialiased bg-gray-50 dark:bg-black min-h-screen',
 			},
-			title: 'Pushpak Chhajed',
+			title: 'Md Shohag',
 			meta: [
 				{ charset: 'utf-8' },
 				{ name: 'viewport', content: 'width=device-width, initial-scale=1' },

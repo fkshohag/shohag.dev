@@ -16,12 +16,14 @@
 			Hey. I'm {{ appConfig.name }}. 👋
 		</h1>
 		<p class="text-gray-900 dark:text-gray-400">
-			I'm a Senior Software Engineer from Bangladesh, specializing in building scalable applications with a strong 
-			foundation in DevOps practices. 
+			I'm a Senior Software Engineer from Bangladesh, with an MSc in Computer Science from Jahangirnagar University 
+			and a BSc in Computer Science & Engineering from Southeast University. I specialize in building scalable 
+			applications with a strong foundation in DevOps practices and distributed systems.
 			<br><br>
-			With over 6 years of experience, I focus on engineering best practices, creating maintainable and testable code. 
-			I'm particularly passionate about system architecture, API design, and implementing robust solutions that scale. 
-			My approach to software development emphasizes both technical excellence and business value.
+			With over 6 years of experience in software design and development, my academic background in algorithms, 
+			distributed computing, and AI/ML complements my practical expertise in building high-performance systems. 
+			Currently, I'm working with the bKash Engineering team, where we handle Bangladesh's largest Mobile-Financial-Service 
+			platform, processing over 18 million daily transactions for 74M+ registered subscribers.
 			<br><br>
 			My technical expertise spans across multiple domains:
 			<br>
