@@ -29,5 +29,5 @@ export default defineAppConfig({
 		},
 	},
 	name: 'Md Shohag',
-	resumeURL: 'https://drive.google.com/file/d/1vJbFZ-NyPPtkshIVDlHZYNusnBt_vZM3/view',
+	resumeURL: 'https://drive.google.com/file/d/1xmLupKpaFRZJ4T9vZhIqaXtM2TZzD6pF/view',
 });

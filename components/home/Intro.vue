@@ -16,9 +16,11 @@
 			Hey. I'm {{ appConfig.name }}. 👋
 		</h1>
 		<p class="text-gray-900 dark:text-gray-400">
-			I'm a Senior Software Engineer from Bangladesh, with an MSc in Computer Science from Jahangirnagar University 
-			and a BSc in Computer Science & Engineering from Southeast University. I specialize in building scalable 
-			applications with a strong foundation in DevOps practices and distributed systems.
+			I'm a Senior Software Engineer from Bangladesh, with an MSc in Computer Science from 
+			<b class="text-primary-700 dark:text-primary-100">Jahangirnagar University</b> 
+			and a BSc in Computer Science & Engineering from 
+			<b class="text-primary-700 dark:text-primary-100">Southeast University</b>. 
+			I specialize in building scalable applications with a strong foundation in DevOps practices and distributed systems.
 			<br><br>
 			With over 6 years of experience in software design and development, my academic background in algorithms, 
 			distributed computing, and AI/ML complements my practical expertise in building high-performance systems. 
