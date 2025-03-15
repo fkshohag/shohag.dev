@@ -1,8 +1,8 @@
 {
-  "name": "Larasonic 🚀",
-  "slug": "larasonic",
-  "description": "A modern SaaS Kit for VILT stack",
-  "skills": "vue,inertia,tailwind,laravel",
-  "githubUrl": "https://github.com/pushpak1300/Larasonic",
-  "mainLink": "https://larasonic.com"
+  "name": "Radar Monitoring System 🚀",
+  "slug": "radar-monitoring-system",
+  "description": "Radar Monitoring System for Bangladesh",
+  "skills": "C++, Arduino",
+  "githubUrl": "https://github.com/fkshohag/radar-monitoring-system",
+  "mainLink": ""
 }

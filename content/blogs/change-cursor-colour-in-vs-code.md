@@ -1,10 +1,10 @@
 ---
-title: "Change Cursor Colour in VS code 🤯"
-description: "I will show you how to change cursor colour in VScode."
+title: "Tower of Hanoi Problem and Python Solution 🤯"
+description: "Tower of Hanoi Problem and Python Solution"
 published_at: 2020/09/17
-slug: "change-cursor-colour-in-vs-code"
+slug: "tower-of-hanoi-b8f2283e3d78"
 external: true
-external_url: https://dev.to/pushpak1300/change-cursor-colour-in-vs-code-2jed
+external_url: https://medium.com/analytics-vidhya/tower-of-hanoi-b8f2283e3d78
 ---
 I’ve been using VSCode for almost 2 years now and I like it so much. I’m sure that you like it too. But I decided that it was time to customize it a bit more. I will show you how to change cursor colour in VScode. 
 

@@ -28,12 +28,16 @@
 				Want me to speak at your event?
 			</h2>
 			<p class="text-sm text-gray-600 dark:text-gray-400">
-				If you are organizing a tech conference or meetup focused on Laravel(PHP), Vue (Typescript), Voice AI or
-				modern web development, I'd be happy to give a talk!
+				If you are organizing a tech conference or meetup focused on FastAPI (Python), Golang, DevOps practices, 
+				System Design, Cloud Architecture, or AI/ML Engineering (especially LLM fine-tuning), I'd be happy to give a talk! 
+				I specialize in scalable backend systems, microservices architecture, modern infrastructure solutions, and 
+				production-grade AI systems.
 			</p>
 			<ul class="ml-4 list-disc space-y-2 text-sm text-gray-600 dark:text-gray-400">
 				<li>I am currently doing in-person/online talks</li>
-				<li>For events outside India, visa assistance may be required</li>
+				<li>For events outside Bangladesh, visa assistance may be required</li>
+				<li>Technical topics include: Kubernetes, Docker, CI/CD, Cloud Native Architecture, Distributed Systems</li>
+				<li>AI/ML topics include: LLM Fine-tuning, Llama/Mistral Models, RAG Systems, MLOps, Vector Databases</li>
 			</ul>
 			<p class="text-sm text-gray-600 dark:text-gray-400">
 				Reach out to me at <a
@@ -53,8 +57,8 @@ import TalkItem from '~/components/TalkItem.vue';
 
 const PAGE_CONFIG = {
 	title: 'Talks',
-	description: 'Presentations and talks I\'ve given at various conferences and meetups over the years.',
-	email: 'talks@pushpak1300.me',
+	description: 'Technical talks and presentations on Backend Engineering (Golang, FastAPI), DevOps practices, System Design, and AI/ML Engineering (LLM fine-tuning, RAG) at conferences and tech meetups.',
+	email: 'shohag.fks@gmail.com',
 } as const;
 
 interface TalkInstance {
